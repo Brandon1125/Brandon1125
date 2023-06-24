@@ -2,7 +2,7 @@
 🔭 I’m currently looking for a job.<br>👯 I’m looking to collaborate on.<br>🌱 I’m currently learning.<br><br>
 
 ## 🏆 Badges
-https://www.codewars.com/users/Brandon1125/badges/micro
+[![Codewars](https://www.codewars.com/users/Brandon1125/badges/large)]
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/brandon.rosales.750983?mibextid=ZbWKwL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramirez-brandon-145b58232) 
